@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Fondo oscuro tipo "Centro de Operaciones" */
+body {
+  background: #0a0e1a;
+  color: #e2e8f0;
+  font-family: Inter, system-ui, sans-serif;
+  margin: 0;
+}
